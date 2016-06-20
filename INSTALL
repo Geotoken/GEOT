@@ -1,0 +1,9 @@
+Building Geotoken
+
+See doc/readme-qt.rst for instructions on building Geotoken-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Geotoken.
+
+See doc/build-*.txt for instructions on building FeatherCoinClassicd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Geotoken.
